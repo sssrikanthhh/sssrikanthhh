@@ -34,3 +34,19 @@
 <h2 align="left"><img src="https://cdn-icons-png.flaticon.com/512/1006/1006555.png" width="23px"/> let's get connected</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-srikanthchiramana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srikanthchiramana/)](https://www.linkedin.com/in/srikanthchiramana/) [![Twitter Badge](https://img.shields.io/badge/-@sssrikanthhh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sssrikanthhh)](https://twitter.com/sssrikanthhh)  [![Instagram Badge](https://img.shields.io/badge/-@sssrikanthhh-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/sssrikanthhh/)](https://www.instagram.com/sssrikanthhh/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sssrikanthhh&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sssrikanthhh&langs_count=5&theme=tokyonight)]()
+
