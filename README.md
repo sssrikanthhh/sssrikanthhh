@@ -1,14 +1,14 @@
 
 <h2 align="left">
  <abc>
-   <img src="https://cdn4.iconfinder.com/data/icons/mexican-curious-1/400/emojiDF_hello-1024.png" width="100px"/>hi there! 
-  <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> I'm Srikanth, full stack web developer<br>
+   <img src="https://cdn4.iconfinder.com/data/icons/mexican-curious-1/400/emojiDF_hello-1024.png" width="100px"/>Hi there! 
+  <br>I'm Srikanth, Full Stack Web Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> <br>
   <br>
  </abc>
 </h2> 
 
 
-<h2 align="left">technologies and tools i work with <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<h2 align="left">Technologies and Tools I work with <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -30,6 +30,9 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm currently Learning and building projects with MERN stack
+- :slightly_smiling_face: Ask me about Javascript, React and Expressjs
+- :detective: Interested to learn about new technologies.
+- :boy: Hobbies: Pencil art, Playing cricket and Learning new tech 
 
 <h2 align="left"><img src="https://cdn-icons-png.flaticon.com/512/1006/1006555.png" width="23px"/> let's get connected</h2>
 
