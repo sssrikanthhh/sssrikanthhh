@@ -2,8 +2,7 @@
 <h2 align="left">
  <abc>
    <img src="https://cdn4.iconfinder.com/data/icons/mexican-curious-1/400/emojiDF_hello-1024.png" width="100px"/>Hi there! 
-  <br>I'm Srikanth, Full Stack Web Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> <br>
-  <br>
+  <br><h1>I'm Srikanth, Full Stack Web Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"></h1>Expertise in MERN stack, interesed to build full stack applications
  </abc>
 </h2> 
 
